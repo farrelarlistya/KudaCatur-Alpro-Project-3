@@ -1,4 +1,4 @@
-File tersebut berisi kode program java sebagai pemenuhan tugas mata kuliah Algoritma Pemrograman membuat Game Kuda Catur: Project 2.
+File tersebut berisi kode program java sebagai pemenuhan tugas mata kuliah Algoritma Pemrograman membuat Game Kuda Catur: Project 3.
 
 Nama Anggota Kelompok 14:
 
